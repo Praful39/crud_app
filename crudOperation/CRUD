@@ -1,0 +1,5 @@
+insert into employees (last_name, first_name, email_id, id) values ('chate','praful','chatepraful@gmail.com',39)
+insert into employees (last_name, first_name, email_id, id) values ('one','some','abc@gmail.com',123)
+insert into employees (last_name, first_name, email_id, id) values ('thing','every','def@gmail.com',456)
+update employees set last_name = 'one' WHERE last_name = 'thing'
+delete from employees where first_name = 'every'

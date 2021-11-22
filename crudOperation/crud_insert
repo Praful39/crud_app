@@ -1,0 +1,7 @@
+insert into employees values (39,'chatepraful@gmail.com','Praful','Chate');
+insert into employees values (76,'adesh@gmail.com','Adesh','Mahadik');
+insert into employees values (49,'dhananjay@gmail.com','Dhananjay','Surve');
+insert into employees values (78,'pritesh@gmail.com','Pritesh','Sonawane');
+insert into employees values (74,'ashish@gmail.com','Ashish','Surdas');
+insert into employees values (05,'advait@gmail.com','Advait','Amrutkar');
+insert into employees values (29,'manukuamr@gmail.com','Manu','Kumar');
